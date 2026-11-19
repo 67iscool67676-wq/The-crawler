@@ -2,7 +2,7 @@
 
 A first-person 3D horror game that runs in your browser. Something blind lives in the graveyard. It hunts by sound. Stay quiet.
 
-**Play:** https://67iscool67676-wq.github.io/the-crawler/ (Chrome works best — headphones recommended)
+**Play:** https://67iscool67676-wq.github.io/The-crawler/ (Chrome works best — headphones recommended)
 
 ## Controls
 - **Mouse / touchpad** — look
